@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LifeBonder.MessageService.Api.DataAccess\LifeBonder.MessageService.Api.DataAccess.csproj" />
+    <ProjectReference Include="..\LifeBonder.MessageService.Api.Models\LifeBonder.MessageService.Api.Models.csproj" />
+  </ItemGroup>
+
+</Project>

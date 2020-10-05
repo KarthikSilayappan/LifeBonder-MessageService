@@ -1,0 +1,14 @@
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.deps.json
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.pdb
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.csprojAssemblyReference.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.AssemblyInfoInputs.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.AssemblyInfo.cs
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.csproj.CoreCompileInputs.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.pdb
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Models.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Models.pdb
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.Services.csproj.CopyComplete
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.Services\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.pdb

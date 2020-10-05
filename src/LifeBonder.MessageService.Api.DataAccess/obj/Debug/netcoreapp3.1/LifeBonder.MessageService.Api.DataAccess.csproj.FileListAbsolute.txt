@@ -1,0 +1,9 @@
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.deps.json
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.AssemblyInfoInputs.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.AssemblyInfo.cs
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.csprojAssemblyReference.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\bin\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.pdb
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.csproj.CoreCompileInputs.cache
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.dll
+D:\Study\LifeBonder.MessageService.Api\LifeBonder.MessageService.Api.DataAccess\obj\Debug\netcoreapp3.1\LifeBonder.MessageService.Api.DataAccess.pdb
